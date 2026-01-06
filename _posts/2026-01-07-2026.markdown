@@ -1,17 +1,16 @@
 ---
 layout:     post
-title:      "2026-01"
-subtitle:   ""
-date:       2026-01-07 12:00:00
+title:      "Writing Something.... in 2026"
+subtitle:   " \"Writing something\""
+date:       2026-01-07 00:00:00
 author:     "cpk"
-header-img: ""
+header-img: "img/post-bg/post-bg-2017.jpg"
 catalog: true
 tags:
     - 生活
 ---
 
-> “writing something ...... in 2026”
+> “2026 Writing something......”
 
 
-#### Writing SomeThing.......
-
+### Writing something......
