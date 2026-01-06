@@ -1,4 +1,4 @@
-# erdoudou Blog
+# cpk Blog
 
 ### [我的博客在这里 &rarr;](https://erdouzhang.github.io/cpk-blog/)
 

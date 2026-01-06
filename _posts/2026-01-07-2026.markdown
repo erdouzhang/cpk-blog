@@ -7,7 +7,7 @@ author:     "cpk"
 header-img: ""
 catalog: true
 tags:
-    - 
+    - 生活
 ---
 
 > “writing something ...... in 2026”
