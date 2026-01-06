@@ -1,6 +1,6 @@
 # erdoudou Blog
 
-### [我的博客在这里 &rarr;](https://erdouzhang.github.io/own-erdou-blog/)
+### [我的博客在这里 &rarr;](https://erdouzhang.github.io/cpk-blog/)
 
 欢迎大家交流讨论
 

@@ -1,12 +1,12 @@
 # Site settings
-title: ErDouDou Blog
-SEOTitle: erdoudou的博客 | erdoudou Blog
+title: CPK Blog
+SEOTitle: cpk的博客 | cpk Blog
 header-img: img/home-bg-o.jpg
 email: erdouzhang@163.com
 description: "May Your Heart Be The Map"
 keyword: "erdoudou Blog"
-url: "http://erdouzhang.github.io/own-erdou-blog"              # your host, for absolute URL
-baseurl: "/own-erdou-blog"                            # for example, '/blog' if your blog hosted on 'host/blog'
+url: "http://erdouzhang.github.io/cpk-blog"              # your host, for absolute URL
+baseurl: "/cpk-blog"                            # for example, '/blog' if your blog hosted on 'host/blog'
 flagText: "May Your Heart Be The Map"
 
 # timezone: CN
@@ -74,7 +74,7 @@ ga_domain: movesan.me                   #
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "so far, It's so terrible."
-sidebar-avatar: /own-erdou-blog/img/p_avtar.jpg    # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /cpk-blog/img/p_avtar.jpg    # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -118,7 +118,7 @@ friends: [
         href: "https://segmentfault.com/"
     },{
         title: "我的博客",
-        href: "https://erdouzhang.github.io/own-erdou-blog/"
+        href: "https://erdouzhang.github.io/cpk-blog/"
     }
 ]
 # 访问量
